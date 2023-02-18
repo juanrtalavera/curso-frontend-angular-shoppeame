@@ -1,7 +1,15 @@
-.navbar{
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #FFC971;
     img{
-     width: 24px;
-     height: 24px;
-     margin-left: 32px;
-    }
-    }
+        width: 24px;
+        height: 24px;
+        margin-left: 32px;
+       }
+  }
+  
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
